@@ -1,6 +1,6 @@
 package core_java_assignment;    //Area of Circle using Math.random
 
-public class Assgnment_23 {
+public class Assignment_23 {
        
 	final static double pi = Math.PI;
 		
